@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan nama saya **Muhamad Fadhil**.<br>
+
+Saya seorang **Cloud computing cohort** di [Bangkit]([https://www.dicoding.com/](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing)).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-fadhil-68322422a/)ku ya.
 
 <!--
 **fadhil9/fadhil9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
